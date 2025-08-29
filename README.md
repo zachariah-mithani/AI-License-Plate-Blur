@@ -25,3 +25,4 @@ An AI-powered privacy protection system that detects and automatically blurs lic
 ---
 
 ## Preview
+<img width="603" height="726" alt="Screenshot 2025-08-29 at 3 44 37 AM" src="https://github.com/user-attachments/assets/f4b98a0a-da5b-415f-8cf2-b8d26ed1c631" />

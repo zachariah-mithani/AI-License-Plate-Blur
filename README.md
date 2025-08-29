@@ -266,3 +266,4 @@ This is a portfolio demonstration project. For questions or collaboration opport
 ---
 
 **Built with ❤️ by Zachariah Mithani - Agentic AI Solutions Engineer**# Document-Intelligence-Web-App
+# AI-License-Plate-Blur
